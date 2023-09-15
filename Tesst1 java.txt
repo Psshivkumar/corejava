@@ -1,0 +1,315 @@
+Q1.
+   1.this keyword:
+     it is the keyword in java, used to differentiate the instance variables and local variables in a class
+    (we can assign local variable to instance variable with the hel of this keyword)
+
+
+     super keyword:
+     super keyword is used to acces the fields from the parent class
+   
+   2. this():
+     it is the inbuilt method in java , we can call the constructor from one constructor within the same class with the help of this method
+     called as constructor chaining(this() method).
+     it shold be the first line in a constructor while chaining a constructor
+     
+     super():
+     it is also a method in java used call the constructor from parent class(super chaining)
+
+
+    ex:public class Parent{
+
+          public parent(){
+           System.out.println("parent constructor");
+             }
+       }
+
+       
+
+      public class Child extends Parent{
+        
+       int age;
+       String name;
+         
+     
+        public Child(){
+       super();
+
+      System.out.println("0 parameter constructor")
+        }
+
+      public Child(int age){
+       this.age=age;
+      System.out.println("1 parameter constructor")
+        }
+      
+       
+      public Child(int age,String name){
+       this(age);
+       this.name=name;
+
+      System.out.println("2 parameter constructor")
+        }
+   }
+     
+   
+Q2. java is object oriented programming language because we represents real world objects in the form of programming language
+    with the help of class we create object and through object reference we access all the variables and functionality of the java program
+
+
+Q3.extends:
+    it is the keyword in java
+    it represents the super and sub relationshiop between classes and also between interface
+    we can achieve inheritence with the help of extends keyword
+    it represents is a relationship
+    from a class we can inherit the prperties and behaviours to the child class also from one interface to onther interface
+  
+ex;public class Parent{
+      
+     int age;
+     String address; 
+
+ 
+        public parent(){
+           System.out.println("parent constructor");
+             }
+
+
+
+       }
+
+  
+
+
+     
+      public class Child extends Parent{
+        
+       
+       String name;
+         
+     
+        public Child(){
+       super();
+
+      System.out.println("0 parameter constructor")
+        }
+
+    
+        }
+   }
+
+   
+     implements:
+    
+    the unimplemented methods(abstract methods) in an interface can get implemented in a class with help of implements keyword
+    we cam achieve multiple inheritance with this keyword
+    also loosecoupling can be achieved
+
+       
+Q5. coupling:
+    two types of coupling
+   1.loose coupling
+   2. tighgt coupling
+
+ 1. with the help of interface we can achieve loose coupling means modifivation in any other implementation class does nogt affect the result of the program
+
+ 2.modification in any other classes will effect the result of the programm is called tight coupling 
+
+
+  Casting: converting data from one typr to onothre type 
+  
+    1.upcasting
+    2.downcasting
+ 1: converting from child type to parent type is called upcasting
+ 2: converting from parent type to child type is called downcasting
+
+ primitive types are also can be casted there is implicite and explicite casting in primitive datatypes
+ means int can be directry casted to byte but we should explicitely cast the byte to int 
+
+ int a;
+ float b;
+  
+ float b= (float)a
+
+ex:
+
+
+suppose parent class is Parent
+and child class is Child
+
+then
+parent p = new Parent();
+Child c= new child();
+Parent p =(Child)c;  //upcasting
+Child c=(child)p;   //downcasting
+
+
+
+
+Q6;poymorpism is achieved by method overloading and method overriding in java
+
+1. compile time polymorphism(method overloading).
+
+  methpds with same name in a class but differ in 1) number of parameters
+     
+                                                  2)order of parameters
+                                                  3)datatype of parameter
+
+ at compile time only we can decide which method will executed first
+
+
+2. run time polymorphism(method overriding)
+
+  methods with the same name and and parameters but its functionality will be altered in child class
+ at run time jvm will decide which mwthod should be executed
+
+
+
+q8; final is a keyword in java
+ when a class is made final it cant be extends
+ methods with final cant be overriden
+ varables with final are not modified 
+
+
+Q9;
+
+class and objects
+class is a blueprint to create the object and also it is a datatype (non primitive) which gets life when object is created
+
+object is physical entity which is created with the help of class
+
+abstract classes are the classes with concrete and abstract methods 
+it is declared with the help of abstract keyword 
+it is also a root class in java
+
+ these abstract methods will get implemented in  other classes with the help of inheritance 
+
+Q10; two types of construcor 
+  1) default constructoer(provided by java with xero parameter we can also write zero parameterr constructir)
+
+ 2) parameterised constructor(constructor with parameter written by developer)
+
+
+Q11;
+  yes
+
+
+Q12;
+using functionality without knowing the implemantation 
+
+example youtube,whats app , etc 
+ we does not know the implemenatation even though we are using its functionality
+
+Q13;
+
+ -run time polymorphism(method overriding)
+
+  methods with the same name and and parameters but its functionality will be altered in child class
+ at run time jvm will decide which mwthod should be executed
+
+
+-compile time polymorphism(method overloading).
+
+  methpds with same name in a class but differ in 1) number of parameters
+     
+                                                  2)order of parameters
+                                                  3)datatype of parameter
+
+ at compile time only we can decide which method will executed first
+
+
+Q17;exception handling
+  
+ exception is a unwanted event whis accurred in run time or compile time of a program
+
+we can handle these excetion with the help of try and catch blocks
+called as exceptipn handling
+
+run time exceptions arrayIndexoutOfBoundException, nullponiterexception etc
+compiletime exception classnotfoundexception
+
+
+Q18
+
+  public class CountDigits{
+
+  public static void digit(int n){
+   int count=0;
+   while(n!=0){
+    
+    int res=0;
+    res=n%10;
+   n=n/10;
+count++;
+}
+return res
+}
+  public static void main(String[] args){
+
+scanner sc=neew Scanner(System.in);
+int n= sc.nextInt();
+System.out.println(CountDigits.digit(int n));
+}
+}
+
+Q20; 
+  public class AmazonePrime{
+
+   String[] categories=new string[3];
+   int index;
+
+ public boolean addCategory(String category){
+
+boolean isAdded=false;
+ if (category!=null){
+ categories[index++]=category;
+ isAdded=true;
+}else{
+System.out,println("it is null please provode valid data");
+}
+return isAdded;
+}
+
+public void getCategory(){
+for(int i=0;i<categories.length;i++){
+
+System.out.println(categories[i]);
+}
+}
+public static void main(String[] args){
+  
+ AmazonePrime a= new AmazonePrime();
+ a.addCategory("cricket");
+ a.addCategory("movies");
+ a.addCategory("webseries");
+
+a.getCategory();
+}
+
+}
+
+
+Q21;
+
+ Object is a root class in java means all the classes in java are the sub classes of Object class in java
+
+ there are 11 methods in java they are 
+ 
+ clone()
+ hashCode()
+ notify()
+notifyAll()
+equals()  ; compares non primitive datatype
+toString() returns address of a variable in the form of String
+wait() // with parameters also
+finalize()
+getClass(); returns the class 
+
+
+
+    
+
+
+
+
+
+
