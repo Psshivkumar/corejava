@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e611605-bbdf-4b27-b333-1d22423dc435" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../booking-platform/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/BookingExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/booking/BookMyshow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/booking/impl/BookMyShowImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/constants/Languages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/dto/MovieticketDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../booking-platform/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../education/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../house/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hublidarwad/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritancen/src/com/xworkz/override/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/src/com/xworkz/jdbc/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/OfficerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/constatnts/BloodGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/constatnts/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/officer/Officer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/policestations/PoliceStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snapdeals/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../socialmedia/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../software-management-system/software-management-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../software-management-system/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../software-management-system/src/com/xworkz/plaustoreapp/AppTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../software-management-system/src/com/xworkz/plaustoreapp/Application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../software-management-system/src/com/xworkz/plaustoreapp/hub/SoftwareHub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/market/DemartExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/market/mart/Demart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/market/supermarket/SuperMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../write-to-db/database/locs.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../write-to-excel/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../write-to-excel/src/WriteToExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../abstraction/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../application/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asoociation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../asoociation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casting/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../casting/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaininginInheritance/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chaininginInheritance/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkzcollectionframework/Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkzcollectionframework/BloodGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/BloodGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkzcollectionframework/CollectionTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/CollectionTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkzcollectionframework/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkzcollectionframework/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/PatientDtos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkzcollectionframework/PatientDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkzcollectionframework/QueueClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/QueueClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkzcollectionframework/Setclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Setclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkzcollectionframework/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/src/com/xworkz/crud/app/OttPlatform.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/src/com/xworkz/crud/app/OttPlatform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/src/com/xworkz/crud/app/OttTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/src/com/xworkz/crud/app/OttTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../encapsulation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../exception/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../garage/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../garage/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-management-system/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-management-system/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-services/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-services/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodover/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../methodover/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objectclass/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../objectclass/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../power/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../power/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pro/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../pro/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../task/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../technicalaptitude/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../technicalaptitude/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toothpaste/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../toothpaste/.project" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2WwX7ShuPTILGMiDNykkAz1YdpL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/23-8-2023/Arduino/libraries/AceWire/corejava/super-market-system/lib"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\23-8-2023\Arduino\libraries\AceWire\corejava\super-market-system\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemartExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xworkz.market.DemartExecutor" />
+      <module name="super-market-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xworkz.market.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemartExecutor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e611605-bbdf-4b27-b333-1d22423dc435" name="Changes" comment="" />
+      <created>1697644452192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697644452192</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
