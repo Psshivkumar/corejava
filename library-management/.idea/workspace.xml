@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00ba5680-0ffb-440a-a2bf-8c32e4b9c5f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/corejava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ahana.arrays/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../custom-objects-collection/custom-objects-collection/custom-objects-collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptionhandling/exceptionhandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptionhandling/exceptionhandling/exceptionhandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../feedback-form/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-delivery/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-recipe/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions-practice/methods-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../home-system/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java8features/java8features.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc-instagram1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpatrysums/.idea/jpatrysums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kuldi/.idea/kuldi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kuldi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops-practice/loops-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mvc-project/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-year-registration/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police-station-management-system/police-station-management-system/police-station-management-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problems/problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-management-system/product-management-system/product-management-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../registration-forms/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/src/main/java/com/xworkz/resorts/dto/CustomerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/src/main/java/com/xworkz/resorts/dto/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/src/main/java/com/xworkz/resorts/repo/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts-list/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../resorts/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop-rental/shop-rental/shop-rental.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting-programs/sorting-programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-core/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../string-prog/string-prog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strings/strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/.idea/vendor-proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/Java-Programs/Java-Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/conditional-statements/conditional-statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/shivu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/shivu/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vendor-proj/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyz/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyzz/xyzz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstraction/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../abstraction/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../air-pods/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../air-pods/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../airport-terminal-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../airport-terminal-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application-form/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../application-form/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application-form/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../application-form/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../application/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applicationform/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applicationform/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applicationform/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../applicationform/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../applicationform/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../applicationform/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asoociation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../asoociation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank-atmcard-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bank-atmcard-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../binge-ott/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../binge-ott/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../booking-platform/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../booking-platform/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/BookingExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/BookingExecutor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/constants/Languages.java" beforeDir="false" afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/constants/Languages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/dto/MovieticketDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/dto/MovieticketDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/repository/BookMyshowRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/repository/BookMyshowRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/repository/impl/BookMyShowRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../booking-platform/src/main/java/com/xworkz/bookings/repository/impl/BookMyShowRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../casting/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../casting/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaininginInheritance/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../chaininginInheritance/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cloud/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Arraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/BloodGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/BloodGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/CollectionTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/CollectionTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/PatientDtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/PatientDtos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/QueueClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/QueueClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Setclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Setclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../collectionframework/src/com/xworkz/collectionframework/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../country-capitalcity/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../country-capitalcity/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../country-state/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../country-state/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/src/com/xworkz/crud/app/OttPlatform.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/src/com/xworkz/crud/app/OttPlatform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/src/com/xworkz/crud/app/OttTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/src/com/xworkz/crud/app/OttTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../education/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../education/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../encapsulation/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../encapsulation/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../exception/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../garage/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../garage/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-management-system/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-management-system/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital-services/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital-services/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hospital/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../hospital/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../house/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../house/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hublidarwad/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hublidarwad/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritancen/src/com/xworkz/override/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritancen/src/com/xworkz/override/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc/src/com/xworkz/jdbc/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc/src/com/xworkz/jdbc/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../library/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../malls-shops/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../malls-shops/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methodover/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../methodover/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../metro-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../metro-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-battery/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-battery/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-actors/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-actors/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-applicaton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new-applicaton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objectclass/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../objectclass/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patient-management-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patient-management-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../person-passport-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../person-passport-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../police-department/police-department.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../police-department/police-department.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/OfficerTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/OfficerTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/constatnts/BloodGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/constatnts/BloodGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/constatnts/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/constatnts/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/officer/OfficerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/officer/OfficerDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/policestations/VijayanagarPoliceStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../police-department/src/com/xworkz/policeapp/policestations/VijayanagarPoliceStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../politics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../politics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../power/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../power/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pro/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../pro/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration-form/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../registration-form/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration-form/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../registration-form/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../registration-form/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../registration-form/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shops/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shops/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../snapdeals/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../snapdeals/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../socialmedia/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../socialmedia/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../software-management-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../software-management-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../software-management-system/software-management-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../software-management-system/software-management-system/software-management-system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../software-management-system/src/com/xworkz/plaustoreapp/AppTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../software-management-system/src/com/xworkz/plaustoreapp/AppTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../software-management-system/src/com/xworkz/plaustoreapp/Application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../software-management-system/src/com/xworkz/plaustoreapp/Application/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../software-management-system/src/com/xworkz/plaustoreapp/hub/SoftwareHub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../software-management-system/src/com/xworkz/plaustoreapp/hub/SoftwareHub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../software-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../software-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../super-market-system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../super-market-system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../task/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../technicalaptitude/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../technicalaptitude/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../theatre-screens/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../theatre-screens/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../three-statements/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../three-statements/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toothpaste/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../toothpaste/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-management-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-management-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-system/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-system/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-system/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../user-system/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../write-to-excel/src/WriteToExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../write-to-excel/src/WriteToExcel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2oWz7QFXfAX1g3PDHeXZc6gXx6d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/23-8-2023/Arduino/libraries/AceWire/corejava/booking-platform"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\23-8-2023\Arduino\libraries\AceWire\corejava\library-management\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ahana.library.tester.Tester" />
+      <module name="library-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ahana.library.tester.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ba5680-0ffb-440a-a2bf-8c32e4b9c5f9" name="Changes" comment="" />
+      <created>1730999953305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730999953305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
